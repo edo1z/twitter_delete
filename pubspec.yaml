@@ -1,5 +1,5 @@
 name: twitter_delete
-description: A sample command-line application.
+description: You can delete Twitter tweets. You can also delete  past tweets by tweet.js too.
 version: 1.0.0
 homepage: https://blog.logicky.com
 author: edo1z <endo.yuta@logicky.com>
